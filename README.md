@@ -4,10 +4,10 @@ Lägg in mockups, planer, ider och liknande här.
 # SprintGoals - Sprint 1
 
 - Business Model Canvas
-- Affarsplan 
+- Affärsplan 
 - Planering
-  - Hur arbetet skall fordelas 
-  - Flodesschema 
+  - Hur arbetet skall fördelas 
+  - Flödesschema 
   - Boka Zoom meeting m. Tomas 
   
   
